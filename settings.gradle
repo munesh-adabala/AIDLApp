@@ -1,0 +1,3 @@
+include ':aidlsensorlibrary'
+include ':app'
+rootProject.name = "AIDLApp"
